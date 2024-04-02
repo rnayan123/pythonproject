@@ -51,6 +51,21 @@ def finding():
 
 6. Some states have relatively low total sales and unit sales compared to others, suggesting potential opportunities for growth or expansion in those markets.
 
+    ##  Total Sales by Region and City in Treemap
+    
+
+- Foot Locker appears to be the top-performing retailer in terms of total sales, having the tallest bar indicating the highest sales figures.
+
+- Sports Direct and West Gear are the next two highest performers in sales among the retailers shown.
+
+- Walmart, while a major retailer, has lower total sales compared to Foot Locker, Sports Direct, and West Gear in this particular data set.
+
+- Kohl's and Amazon have the lowest total sales figures among the retailers presented in the graph.
+
+- There is a significant gap between the top performers (Foot Locker, Sports Direct, West Gear) and the bottom performers (Kohl's, Amazon) in terms of total sales.
+
+- The graph suggests that sporting goods/athletic retailers like Foot Locker, Sports Direct, and West Gear have higher sales compared to general merchandisers like Walmart, Kohl's, and Amazon for the product category or market represented in this data.
+
     
     ## Contact
     For any inquiries or feedback, please contact:
