@@ -9,9 +9,12 @@
 ![image](https://github.com/user-attachments/assets/f989b4b0-bd0f-4d86-8db3-638f7a3090dd)
 ![image](https://github.com/user-attachments/assets/abb17927-8484-4352-9b0e-35d76d764480)
 
-To run this project:-
+To run this project, use the following commands:
+
+```sh
 pip install -r requirements.txt
 streamlit run dashboard.py
+
 
 
 
